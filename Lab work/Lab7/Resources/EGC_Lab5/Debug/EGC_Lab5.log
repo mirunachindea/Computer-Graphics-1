@@ -1,0 +1,10 @@
+﻿  EGC_Lab5.cpp
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab7\resources\egc_lab5\egc_lab5.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab7\resources\egc_lab5\egc_lab5.cpp(118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab7\resources\egc_lab5\egc_lab5.cpp(121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab7\resources\egc_lab5\egc_lab5.cpp(124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab7\resources\egc_lab5\egc_lab5.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab7\resources\egc_lab5\egc_lab5.cpp(153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab7\resources\egc_lab5\egc_lab5.cpp(155): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab7\resources\egc_lab5\egc_lab5.cpp(158): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  EGC_Lab5.vcxproj -> C:\Users\Miruna\Desktop\FACULTA\Y2\Y2S2\EGC\Lab work\Lab7\Resources\Debug\EGC_Lab5.exe

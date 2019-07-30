@@ -1,0 +1,8 @@
+﻿  testTransform.cpp
+  transform.cpp
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab4\laboratory4\laboratory4\transform.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab4\laboratory4\laboratory4\transform.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab4\laboratory4\laboratory4\transform.cpp(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab4\laboratory4\laboratory4\transform.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Laboratory4.vcxproj -> C:\Users\Miruna\Desktop\FACULTA\Y2\Y2S2\EGC\Lab work\Lab4\Laboratory4\Debug\Laboratory4.exe

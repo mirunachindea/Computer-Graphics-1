@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab2\laboratory2\laboratory2\main.cpp(256): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  vec2.cpp
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab2\laboratory2\laboratory2\vec2.cpp(63): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  vec3.cpp
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab2\laboratory2\laboratory2\vec3.cpp(85): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  vec4.cpp
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab2\laboratory2\laboratory2\vec4.cpp(80): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

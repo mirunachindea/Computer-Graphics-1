@@ -1,0 +1,20 @@
+﻿  clip.cpp
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab6\laboratory6\laboratory6\clip.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab6\laboratory6\laboratory6\clip.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab6\laboratory6\laboratory6\clip.cpp(44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab6\laboratory6\laboratory6\clip.cpp(45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab6\laboratory6\laboratory6\clip.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab6\laboratory6\laboratory6\clip.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Laboratory6.cpp
+  mat3.cpp
+  mat4.cpp
+  transform.cpp
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab6\laboratory6\laboratory6\transform.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab6\laboratory6\laboratory6\transform.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab6\laboratory6\laboratory6\transform.cpp(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\miruna\desktop\faculta\y2\y2s2\egc\lab work\lab6\laboratory6\laboratory6\transform.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  vec2.cpp
+  vec3.cpp
+  vec4.cpp
+  Generating Code...
+  Laboratory6.vcxproj -> C:\Users\Miruna\Desktop\FACULTA\Y2\Y2S2\EGC\Lab work\Lab6\Laboratory6\Debug\Laboratory6.exe
